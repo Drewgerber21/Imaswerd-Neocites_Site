@@ -14,6 +14,7 @@ h1 {
 }
 
 .menu-button {
-	list-style-type: none;  /* Removes bullet points */
-	
+	border: none;
+	outline: none;
+	cursor: pointer;
 }
