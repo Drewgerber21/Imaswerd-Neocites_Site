@@ -16,7 +16,7 @@ h1 {
 .menubutton {
 	background-color: #555;
 	color: white;
-	float: left;
+	display: inline-block;
 	border: none;
 	outline: none;
 	cursor: pointer;
